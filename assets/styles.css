@@ -1,0 +1,41 @@
+.div1{    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.div2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.div3{
+    background-color: rgba(255, 255, 255,0.7);
+    height: 80%;
+    width: 80%;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.div4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+p{
+    font-family: 'Protest Strike', sans-serif;
+    font-size: 20px;
+}
+
+.img1{
+    height: 40px;
+    width: 40px;
+}
