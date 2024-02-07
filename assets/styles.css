@@ -39,3 +39,12 @@ p{
     height: 40px;
     width: 40px;
 }
+
+.div4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+}
