@@ -48,3 +48,7 @@ p{
     height: 100vh;
     margin: 0;
 }
+
+.divBg{
+    background-image: url("./images/homeBg.jpg");
+}
